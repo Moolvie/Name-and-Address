@@ -1,0 +1,10 @@
+c:\users\owner\documents\visual studio 2012\Projects\NameAndAddress\NameAndAddress\bin\Debug\NameAndAddress.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\NameAndAddress\NameAndAddress\bin\Debug\NameAndAddress.exe
+c:\users\owner\documents\visual studio 2012\Projects\NameAndAddress\NameAndAddress\bin\Debug\NameAndAddress.pdb
+c:\users\owner\documents\visual studio 2012\Projects\NameAndAddress\NameAndAddress\bin\Debug\NameAndAddress.xml
+c:\users\owner\documents\visual studio 2012\Projects\NameAndAddress\NameAndAddress\obj\Debug\NameAndAddress.Form1.resources
+c:\users\owner\documents\visual studio 2012\Projects\NameAndAddress\NameAndAddress\obj\Debug\NameAndAddress.Resources.resources
+c:\users\owner\documents\visual studio 2012\Projects\NameAndAddress\NameAndAddress\obj\Debug\NameAndAddress.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2012\Projects\NameAndAddress\NameAndAddress\obj\Debug\NameAndAddress.exe
+c:\users\owner\documents\visual studio 2012\Projects\NameAndAddress\NameAndAddress\obj\Debug\NameAndAddress.xml
+c:\users\owner\documents\visual studio 2012\Projects\NameAndAddress\NameAndAddress\obj\Debug\NameAndAddress.pdb
